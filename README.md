@@ -10,7 +10,7 @@ If you want to use try this out yourself, you first need to set up a project on 
 
 You can [sign up for a free account](https://dashboard.datocms.com/signup) and then you can simply click this button:
 
-[![Deploy with DatoCMS Staging](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard-staging.datocms.com/deploy?repo=delphaber/gatsby-portfolio-demo-staging:master)
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard-staging.datocms.com/deploy?repo=delphaber/gatsby-portfolio-demo-test:master)
 
 ## Repo usage
 
